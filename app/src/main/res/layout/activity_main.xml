@@ -22,7 +22,7 @@
                 android:fontFamily="sans-serif-medium"
                 android:gravity="center"
                 android:paddingBottom="16dp"
-                android:text="Team A"
+                android:text="Home"
                 android:textColor="#616161"
                 android:textSize="14sp" />
 
@@ -76,7 +76,7 @@
                 android:fontFamily="sans-serif-medium"
                 android:gravity="center"
                 android:paddingBottom="16dp"
-                android:text="Team B"
+                android:text="Away"
                 android:textColor="#616161"
                 android:textSize="14sp" />
 
