@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Soccer stats</string>
+    <string name="home">Home</string>
+    <string name="away">Away</string>
+    <string name="goal">Goal</string>
+    <string name="zero">0</string>
+    <string name="yellow_card">Yellow card</string>
+    <string name="red_card">Red card</string>
+    <string name="reset">Reset</string>
 </resources>
